@@ -22,8 +22,12 @@ Here are some links to publicly available data repositories:
 - [Network Repository](http://networkrepository.com/) - Great repository of network data (e.g. social networks, bio-networks, etc.)
 
 
-## Judging criterion:
+## Judging criteria
 - Creativity.
 - Technical data science or machine learning approach.
 - Significance and impact of findings.  (Is there a social good aspect?)
 - Presentation quality.
+
+## Acknowledgements
+
+Huge thanks to Genevera Allen and the [D2K Lab](https://d2k.rice.edu) for contributing this track!
