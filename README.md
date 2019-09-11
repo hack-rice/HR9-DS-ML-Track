@@ -1,4 +1,4 @@
-# HR9-DS-ML-Track
+# HackRice 9 | Data Science and Machine Learning Track
 
 ## Track Description
 
